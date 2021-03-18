@@ -1,0 +1,6 @@
+first name:tifetu
+last name:nigussie
+ID:DBU/1332/10
+year:2013
+section:B
+semestr:1
